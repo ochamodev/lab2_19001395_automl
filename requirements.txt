@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+xgboost
+lightgbm
+joblib
+hyperopt
+optuna
+pydantic
+parquet
