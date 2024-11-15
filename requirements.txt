@@ -10,3 +10,5 @@ hyperopt
 optuna
 pydantic
 parquet
+python-dotenv
+fastparquet
